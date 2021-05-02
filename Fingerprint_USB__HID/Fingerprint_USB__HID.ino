@@ -18,7 +18,7 @@
 #include <stdint.h>
 #include <Adafruit_Fingerprint.h>
 #include "KeyboardDE.h"
-#include "MakrosPass.h"
+#include "Makros.h"
 #define SensorPassword 0
 
 #define mySerial Serial1
