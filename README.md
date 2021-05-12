@@ -9,7 +9,6 @@ Diese Passwort Manager ist, durch Emulation einer USB Tastatur auf der Hardwaree
 Weitere Dokumentationen auf der [Projekt Webseite](https://esp8266-server.de/fingerprint.html) 
 
 **Schaltplan  Anschlussplan R503 Fingerprint und Arduino Pro Micro**
-
 ![Schaltplan / Anschlussplan R503 Fingerprint und Arduino Pro Micro](https://esp8266-server.de/dateien/fingerprint/SchaltplGr.png)
 
 
