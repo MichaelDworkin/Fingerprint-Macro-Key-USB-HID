@@ -5,9 +5,14 @@ Für den Rechner sieht es so aus, als würde die Eingabe über USB Keyboard erfo
 Pro Fingerabdruck lässt sich eine Macro belegen. Nach dem berühren des fingerprint sensors und erkennung des Fingerabdrucks wird dazugehörige Macro ausgeführt.
 Es gibt auch die Möglichkeit die Zeitverzögerungen im Macro zu hinterlegen. Auf diese Weise kann die Reaktionszeit des Computers, z. B. bei öffnen der Programme, berücksichtigt werden.
 Diese Passwort Manager ist, durch Emulation einer USB Tastatur auf der Hardwareebene, Betriebssystem unabhängig. Kein eingriff in die Software nötig. Und kann mit Systemen verwendet werden, die durch Administrator voll gesperrt sind. Nur freie USB Port ist erforderlich. 
-[Projekt Webseite](https://esp8266-server.de/fingerprint.html)
-![Fingerprint password manager USB keyboard emulation](https://esp8266-server.de/dateien/fingerprint/SchaltplGr.png)
-![Schaltplan / Anschlussplan R503 Fingerprint und Arduino Pro Micro(https://esp8266-server.de/dateien/fingerprint/SchaltplGr.png)
+
+
+[Projekt Webseite](https://esp8266-server.de/fingerprint.html) mit weiteren Dokumentationen
+
+**Schaltplan  Anschlussplan R503 Fingerprint und Arduino Pro Micro**
+
+![Schaltplan / Anschlussplan R503 Fingerprint und Arduino Pro Micro](https://esp8266-server.de/dateien/fingerprint/SchaltplGr.png)
+
 
 
 # Fingerprint Passwort Manager (USB Keyboard Emulation)
