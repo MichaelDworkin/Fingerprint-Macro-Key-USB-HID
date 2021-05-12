@@ -7,7 +7,7 @@ Es gibt auch die Möglichkeit die Zeitverzögerungen im Macro zu hinterlegen. Au
 Diese Passwort Manager ist, durch Emulation einer USB Tastatur auf der Hardwareebene, Betriebssystem unabhängig. Kein eingriff in die Software nötig. Und kann mit Systemen verwendet werden, die durch Administrator voll gesperrt sind. Nur freie USB Port ist erforderlich. 
 [Projekt Webseite](https://esp8266-server.de/fingerprint.html)
 
-![Schaltplan / Anschlussplan R503 Fingerprint und Arduino Pro Micro(https://github.com/MichaelDworkin/Fingerprint-Macro-Key-USB-HID/blob/main/IMG_20210428_085550.jpg?raw=true)
+![Schaltplan / Anschlussplan R503 Fingerprint und Arduino Pro Micro(https://esp8266-server.de/dateien/fingerprint/SchaltplGr.png)
 
 
 # Fingerprint Passwort Manager (USB Keyboard Emulation)
