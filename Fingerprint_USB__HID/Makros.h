@@ -9,6 +9,8 @@
 // Scancodes Zuordnung bitte hier entnehmen
 // https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h
 
+// Weitere Beschreibung für makros und shortcuts auf https://esp8266-server.de/keypad.html
+
 #define Datensaetze 10
 const String data[Datensaetze] =
 {
